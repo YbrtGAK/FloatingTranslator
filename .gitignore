@@ -1,0 +1,10 @@
+# Build output
+build/
+dist/
+
+# Machine-specific settings
+CMakeUserPresets.json
+CMakeLists.txt.user*
+.qtcreator/
+.vs/
+.vscode/
