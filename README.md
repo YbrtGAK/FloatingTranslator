@@ -40,3 +40,7 @@ installed. The prefix must be an absolute path.
 
 To build from Qt Creator or VS Code (CMake Tools), add a `CMakeUserPresets.json` with your Qt and compiler paths.
 Git ignores that file because the paths are specific to each machine.
+
+## License
+
+MIT, see [LICENSE](LICENSE). The app links dynamically to Qt, which is available under the LGPLv3.
